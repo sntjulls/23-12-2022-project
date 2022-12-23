@@ -16,12 +16,17 @@ font-size: 16px;
 line-height: 1.6;
 }
 
+*{
+    box-sizing: border-box;
+}
+
 h1, 
 h2, 
 h3 {
     font-family: 'Montserrat Alternates', sans-serif;
     font-weight: 700
 }
+
 h1{
     font-weight: 900;
 }
@@ -30,6 +35,8 @@ h3,
 strong{
     font-weight: 700;
 }
+
+btn
 
 /* @media (min-width: 768px) {
     

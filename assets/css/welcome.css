@@ -1,0 +1,23 @@
+.welcome{
+    height: 100vh;
+    background-color: var(--color-main);
+}
+.logo{
+    display: block;
+    width: 50px;
+    height:50;
+}
+.welcome__article{
+
+}
+.welcome__heading{
+
+}
+
+@media (min-width: 992px) {
+    .logo{
+        width: ;
+        height: ;
+    }
+    
+}
